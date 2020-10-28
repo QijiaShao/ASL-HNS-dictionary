@@ -2,6 +2,7 @@
 
 ASL-HNS-dictionary used in [Teaching American Sign Language in Mixed Reality]()
 
+To the best of our knowledge, the ASL-HNS dictionary, which we have built based on online videos and other ASL resources, is the first-of-its-kind and will be of use to other researchers whose work requires a standardized method for documenting ASL as a means of studying the language itself, such as regional dialects or gestural variation between fluent signers. As our ASL teaching system develops further, the potential for other uses in the future will expand even more. We released the ASL-HNS dictionary here to the research community for broader use.
 
 The dictionary was developed by collaborators at Dartmouth College and Gallaudet University.
 Each word included in the dictionary contains a link to a video of the sign in the online resource ASL Signbank [1], information about the type of sign (e.g. one or two handed), and a translation of the sign into Hamburg Notation System or HamNoSys, an phonetic transcription system for codifying signed words into symbols which is designed for use with many signed languages, not only ASL. Unless otherwise noted, the handshape described for dynamic signs is the inital handshape, and any changes to the handshape that occur during the execution of the sign are described in the “movement” column. For detailed information about the conventions of HNS, please see Hanke et al. [2]
