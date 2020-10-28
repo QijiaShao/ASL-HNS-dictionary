@@ -1,4 +1,6 @@
-## ASL-HNS-dictionary used in [Teaching American Sign Language in Mixed Reality]()
+## Teaching American Sign Language in Mixed Reality
+
+ASL-HNS-dictionary used in [Teaching American Sign Language in Mixed Reality]()
 
 
 The dictionary was developed by collaborators at Dartmouth College and Gallaudet University.
