@@ -9,5 +9,6 @@ Sheet 1 contains the full dictionary, which currently contains 56 words.
 ## Acknowgement 
 
 
-[1] Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/
+[1] Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin. (2017-2020) ASL Signbank. New Haven, CT: Haskins Lab, Yale University. https://aslsignbank.haskins.yale.edu/  
+
 [2] Hanke, T. (2004), “HamNoSys - representing sign language data in language resources and language processing contexts.” In: Streiter, Oliver, Vettori, Chiara (eds): LREC 2004, Workshop proceedings : Representation and processing of sign languages. Paris : ELRA, 2004, - pp. 1-6.)
